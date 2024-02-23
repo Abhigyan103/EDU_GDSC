@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // brightness: Brightness.dark,
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Quality Education App'),
     );
   }
 }
